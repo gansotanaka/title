@@ -1,2 +1,14 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>テストページ</title>
+    </head>
+    <body>
+        <h1>テストページ</h1>
+        <p>テキスト入力</p>
+    </body>
+</html>
